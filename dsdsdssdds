@@ -1,0 +1,13 @@
+[1mdiff --git a/example.md b/example.md[m
+[1mindex ad902cf..06586f1 100644[m
+[1m--- a/example.md[m
+[1m+++ b/example.md[m
+[36m@@ -1,4 +1,7 @@[m
+ this is content[m
+ [m
+[31m-this is extra line[m
+[32m+[m[32mthis is extra line![m
+[32m+[m
+[32m+[m
+[32m+[m[32manother small change[m
+ [m
